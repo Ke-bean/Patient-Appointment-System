@@ -1,0 +1,15 @@
+C:\Users\Kebean\source\repos\Patient Appointment System\Patient Appointment System\bin\Debug\Patient Appointment System.exe.config
+C:\Users\Kebean\source\repos\Patient Appointment System\Patient Appointment System\bin\Debug\Patient Appointment System.exe
+C:\Users\Kebean\source\repos\Patient Appointment System\Patient Appointment System\bin\Debug\Patient Appointment System.pdb
+C:\Users\Kebean\source\repos\Patient Appointment System\Patient Appointment System\obj\Debug\Patient Appointment System.csproj.AssemblyReference.cache
+C:\Users\Kebean\source\repos\Patient Appointment System\Patient Appointment System\obj\Debug\Patient_Appointment_System.Appointments.resources
+C:\Users\Kebean\source\repos\Patient Appointment System\Patient Appointment System\obj\Debug\Patient_Appointment_System.Doctors.resources
+C:\Users\Kebean\source\repos\Patient Appointment System\Patient Appointment System\obj\Debug\Patient_Appointment_System.Form1.resources
+C:\Users\Kebean\source\repos\Patient Appointment System\Patient Appointment System\obj\Debug\Patient_Appointment_System.Login.resources
+C:\Users\Kebean\source\repos\Patient Appointment System\Patient Appointment System\obj\Debug\Patient_Appointment_System.Properties.Resources.resources
+C:\Users\Kebean\source\repos\Patient Appointment System\Patient Appointment System\obj\Debug\Patient_Appointment_System.Request_appointment.resources
+C:\Users\Kebean\source\repos\Patient Appointment System\Patient Appointment System\obj\Debug\Patient Appointment System.csproj.GenerateResource.cache
+C:\Users\Kebean\source\repos\Patient Appointment System\Patient Appointment System\obj\Debug\Patient Appointment System.csproj.CoreCompileInputs.cache
+C:\Users\Kebean\source\repos\Patient Appointment System\Patient Appointment System\obj\Debug\Patient Appointment System.exe
+C:\Users\Kebean\source\repos\Patient Appointment System\Patient Appointment System\obj\Debug\Patient Appointment System.pdb
+C:\Users\Kebean\source\repos\Patient Appointment System\Patient Appointment System\obj\Debug\Patient_Appointment_System.All_requests.resources
